@@ -9,13 +9,13 @@
 pipenv install
 
 # Run script
-python part_manager.py
+python ToDo.py
 
 
 # Compiled with Pyinstaller(to make executable file)
 
 # Windows
-pyinstaller --onefile --windowed part_manager.py
+pyinstaller --onefile --windowed ToDo.py
 
 
 ```
