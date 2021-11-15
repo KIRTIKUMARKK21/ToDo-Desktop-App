@@ -1,4 +1,4 @@
-# Part Manager
+# To DO App
 
 > Python/Tkinter desktop GUI app for making To Do List. This app uses Sqlite3 to store data
 
